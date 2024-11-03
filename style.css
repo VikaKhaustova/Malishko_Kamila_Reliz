@@ -68,8 +68,9 @@ nav{
 .another_rows{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
-    gap: 90px;
+    justify-content: space-between;
+    margin: 10px 150px;
+    
 }
 
 
